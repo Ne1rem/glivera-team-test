@@ -1,5 +1,3 @@
-import './style.css'
-
 const customerData = [
   {
     customername: 'Jane Cooper',
